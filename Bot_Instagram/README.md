@@ -1,0 +1,2 @@
+# Bot para instagram
+### Es un modulo que puede ser usado para que un bot se la pase comentando en una publicacion determinada de instagram para ello es necesario pasarle el usuario, contraseña, el link de de la publicacion, un vector de comentarios para que no siempre comente lo mismo y un vector de numeros que seleccionara de manera aleatoria para ver cuanto tiempo tiene que esperar para volver a comentar, esto para que le sea mas dificil ser detectado que es un bot. 
